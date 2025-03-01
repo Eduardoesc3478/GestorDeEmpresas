@@ -53,4 +53,4 @@ adminSchema.methods.toJSON = function(){
     return administrador
 }
 
-export default model("Admin", adminSchema)
+export default model("Admin", adminSchema);
