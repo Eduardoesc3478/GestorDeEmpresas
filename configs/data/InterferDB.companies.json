@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "67c25283b7306a58d23d0895"
+  },
+  "name": "Tech Innovations S.A.",
+  "impactLevel": "Alto",
+  "foundedYear": 2010,
+  "Category": "Grande empresa",
+  "address": "Av. de la Tecnología 123, Ciudad Tech",
+  "startus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c252bbb7306a58d23d0898"
+  },
+  "name": "Little Caesar",
+  "impactLevel": "Alto",
+  "foundedYear": 2000,
+  "Category": "Mediana empresa",
+  "address": "Av. de la Tecnología 123, Ciudad Tech",
+  "startus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c268f0e325be12165eea27"
+  },
+  "name": "Cervecería Centro Americana, S.A.",
+  "impactLevel": "Alto",
+  "foundedYear": 1896,
+  "Category": "Grande empresa",
+  "address": "Carretera a El Salvador, km 22, Ciudad de Guatemala",
+  "startus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c2690ae325be12165eea2a"
+  },
+  "name": "Corporación Multi Inversiones (CMI)",
+  "impactLevel": "Alto",
+  "foundedYear": 1920,
+  "Category": "Grande empresa",
+  "address": "Avenida Reforma 10-55, zona 9, Ciudad de Guatemala",
+  "startus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c2691be325be12165eea2d"
+  },
+  "name": "Pollo Campero",
+  "impactLevel": "Alto",
+  "foundedYear": 1971,
+  "Category": "Grande empresa",
+  "address": "Avenida Reforma 10-55, zona 9, Ciudad de Guatemala",
+  "startus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c2692be325be12165eea30"
+  },
+  "name": "Corporación AG",
+  "impactLevel": "Alto",
+  "foundedYear": 1995,
+  "Category": "Mediana empresa",
+  "address": "Carretera a El Salvador, km 22, Ciudad de Guatemala",
+  "startus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c2693ee325be12165eea33"
+  },
+  "name": "Grupo Pantaleón",
+  "impactLevel": "Alto",
+  "foundedYear": 1850,
+  "Category": "Grande empresa",
+  "address": "Avenida Reforma 10-55A, zona 19, Ciudad de Guatemala",
+  "startus": true,
+  "__v": 0
+}]
