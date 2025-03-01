@@ -44,3 +44,8 @@ export const updateCompanyValidator = [
     validarCampos,
     handleErrors
 ];
+
+export const reportValidator = [
+    validateJWT,
+    hasRoles("ADMIN_ROLE")
+];

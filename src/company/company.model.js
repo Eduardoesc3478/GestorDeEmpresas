@@ -22,7 +22,16 @@ const companySchema = new Schema({
     address: {
         type: String,
         required: false
-    }
+    },
+    trayectory: {
+        type: Number
+    },
+
+    startus: {
+        type: Boolean,
+        default: true
+        
+    },
 });
 
 companySchema.virtual('yearsInBusiness').get(function() {
